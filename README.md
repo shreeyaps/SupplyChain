@@ -10,6 +10,8 @@
 # DASHBOARD 
 ## Dashboar 1 - SALES & PROFITS - https://hdwq4td9gidmc19.sg.qlikcloud.com/sense/app/720c49a4-a759-453b-a503-d48be64b80b7
 ## Dashboar 2 - CUSTOMER ANALYSIS - https://hdwq4td9gidmc19.sg.qlikcloud.com/sense/app/30eb32b5-9f6a-4eee-a3b3-374c2fdbbb76
-## Dashboar 3 - SHIPPING & DELHIVERY - https://hdwq4td9gidmc19.sg.qlikcloud.com/sense/app/4b237f2c-36d8-4fb5-b8c6-dd4b9d00ea3f
-        
-Project demonsration Link - 
+## Dashboar 3 - SHIPPING & DELIVERY - https://hdwq4td9gidmc19.sg.qlikcloud.com/sense/app/4b237f2c-36d8-4fb5-b8c6-dd4b9d00ea3f
+
+## Project Document - https://drive.google.com/file/d/1yV6UpXACZohcddr37mO0gp0A627f3puG/view?usp=sharing
+
+## Project demonsration Link - https://drive.google.com/file/d/1uHQEpYlBvUaJhfo0naeF7ymG8BD9hHP8/view?usp=sharing
