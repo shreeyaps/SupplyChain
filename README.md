@@ -14,4 +14,3 @@
 
 ## Project Document - https://drive.google.com/file/d/1yV6UpXACZohcddr37mO0gp0A627f3puG/view?usp=sharing
 
-## Project demonsration Link - https://drive.google.com/file/d/1uHQEpYlBvUaJhfo0naeF7ymG8BD9hHP8/view?usp=sharing
